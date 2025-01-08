@@ -64,7 +64,7 @@ function Weather() {
   };
 
   useEffect(() => {
-    search("New York");
+    search("Cairo");
   }, []);
 
   return (
